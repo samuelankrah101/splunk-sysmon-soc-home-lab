@@ -141,10 +141,23 @@ Documenting real problems solved, not just the happy path:
 
 ---
 
+
 ## Screenshots
 
-*(Add exported dashboard screenshots here — recommend a `/screenshots` folder in this repo)*
+### Classic Dashboard
+![Classic Dashboard](screenshots/classic-dashboard.png)
 
+### Recon Detection — Process Tree
+![Recon Detection Table](screenshots/recon-detection-table.png)
+
+### Dashboard Studio — Full Overview
+![Studio Dashboard Overview](screenshots/studio-dashboard-overview.png)
+
+### Process Creation Timeline
+![Process Timeline](screenshots/process-timeline.png)
+
+### Final Dashboard Overview
+![Final Dashboard Overview](screenshots/final-dashboard-overview.webp)
 ---
 
 ## Notes
